@@ -8,4 +8,6 @@
 # ======================================
 ![Customer_Booking_Flow](https://user-images.githubusercontent.com/118117109/208295304-ea32ca62-05c4-4291-bfff-c680c6a0ab7c.jpg)
 # ======================================
+![Deployment_Architecture_AWS](https://user-images.githubusercontent.com/118117109/208295407-b4ec2a17-7c3f-4388-b1cc-da6558286187.png)
+
 ![Deployment_Architecture](https://user-images.githubusercontent.com/118117109/208295329-f4a23796-781b-45c6-8094-c1b44edf2019.jpg)
